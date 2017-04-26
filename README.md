@@ -350,8 +350,10 @@ module: {
 					}
 				]
 			})
-		}	
-		
+		  }	
+		]	
+	}
+
 ```
 
 ### Adding babel [link](https://webpack.js.org/loaders/babel-loader/)
@@ -372,6 +374,7 @@ module: {
 					presets: ['env']
 			}
 		}
+	      ]
 	}
 ```
 
