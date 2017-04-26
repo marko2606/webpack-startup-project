@@ -403,5 +403,6 @@ webpack-dev-server command will run server localy and will not create a bundle f
 - [Webpack](https://webpack.js.org)
 - [Babel](https://babeljs.io)
 - [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/webpack-2-the-complete-developers-guide/learn/v4/overview)
-- [Youtube tutorial](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
+- [Youtube tutorial 1](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
+- [Youtube tutorial 2](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
 
