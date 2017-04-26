@@ -301,6 +301,9 @@ plugins: [
 		    filename: config.OUTPUT_CSS_FILENAME
 		})
 	]
+
+...
+
 ```
 
 ### Adding bootstrap [link](https://webpack.js.org/loaders/css-loader/#alias)
