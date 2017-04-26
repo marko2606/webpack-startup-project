@@ -175,7 +175,7 @@ npm install --save-dev webpack
 create a build script in package.json
 
 ```
-"scirpt": {
+"script": {
     "build": "webpack"
 }
 ```
