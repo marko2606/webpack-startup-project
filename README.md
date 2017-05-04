@@ -29,7 +29,7 @@ You need to have NodeJS installed.
 
 Webpack is a tool to build JavaScript modules in your application. It simplifies your workflow by quickly constructing a dependency graph of your application and bundling them in the right order. Webpack can be configured to customize optimizations to your code, to split vendor/css/js code for production, run a development server that hot-reloads your code without page refresh and many such cool features.
 
-<img src="https://webpack.github.io/assets/what-is-webpack.png"></img>
+("https://webpack.github.io/assets/what-is-webpack.png")
 
 ### Configuration
 
