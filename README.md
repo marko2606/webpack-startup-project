@@ -396,7 +396,7 @@ webpack-dev-server command will run server localy and will not create a bundle f
     "serve": "webpack-dev-server"
   },
 ```
-### Webpack devtool - enhance the debugging process[link](https://webpack.js.org/configuration/devtool/#devtool)
+### Webpack devtool - enhance the debugging process [link](https://webpack.js.org/configuration/devtool/#devtool)
 
 ```
 module.exports = {
